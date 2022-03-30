@@ -1,4 +1,3 @@
-package sample;
 /*
   Java StringTokenizer count tokens example
   This example shows how to count remaining tokens of java StringTokenizer object
