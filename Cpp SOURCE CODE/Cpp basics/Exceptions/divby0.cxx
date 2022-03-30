@@ -3,7 +3,7 @@
 
 using namespace std;
 
-class divby0 : public exception
+class divby0 : public exception 
 {
 	const char *what() const throw() { return "Cannot divide by 0"; }
 };
