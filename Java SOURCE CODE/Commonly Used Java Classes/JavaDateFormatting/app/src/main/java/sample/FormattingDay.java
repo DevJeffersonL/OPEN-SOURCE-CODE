@@ -1,4 +1,3 @@
-package sample;
 /*
   Formatting day using SimpleDateFormat
   This example shows how to format day using Java SimpleDateFormat class. Day can

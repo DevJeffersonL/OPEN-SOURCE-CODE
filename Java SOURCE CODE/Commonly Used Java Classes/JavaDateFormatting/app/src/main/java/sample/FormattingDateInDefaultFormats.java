@@ -1,4 +1,3 @@
-package sample;
 /*
   Formatting date in default formats using DateFormat
   This example shows how to format date and time using default formats using Java

@@ -1,4 +1,3 @@
-package sample;
 /*
   Convert date string from one format to another format using SimpleDateFormat
   This example shows how to convert format of a string containing date

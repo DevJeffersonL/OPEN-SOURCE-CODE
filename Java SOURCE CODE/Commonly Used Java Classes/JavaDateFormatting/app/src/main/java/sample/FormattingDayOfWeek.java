@@ -1,4 +1,3 @@
-package sample;
 /*
   Formatting day of week using SimpleDateFormat
   This example shows how to format day of week using Java SimpleDateFormat class.

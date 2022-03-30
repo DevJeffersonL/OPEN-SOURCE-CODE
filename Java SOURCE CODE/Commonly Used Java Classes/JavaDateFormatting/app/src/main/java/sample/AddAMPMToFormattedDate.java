@@ -1,4 +1,3 @@
-package sample;
 /*
   Add AM/PM to time using SimpleDateFormat
   This example shows how to format time to have a AM/PM text using Java

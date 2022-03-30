@@ -1,4 +1,3 @@
-package sample;
 /*
   Formatting date in custom formats using SimpleDateFormat
   This example shows how to format date and time in custom formats using Java
